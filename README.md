@@ -9,21 +9,16 @@ The Pong Game project aims to provide an authentic gaming experience reminiscent
 ## Features
 
 - **Two Player Mode**: Compete against a friend in a head-to-head battle to see who can score the most points.
-- **Single Player Mode**: Test your skills against a computer-controlled opponent with adjustable difficulty levels.
 - **Realistic Physics**: Experience realistic ball movement and collision dynamics that replicate the behavior of a real ping pong ball.
 - **Score Tracking**: Keep track of the score throughout the game to determine the winner.
-- **Customization Options**: Adjust game settings such as paddle speed, ball speed, and game duration to tailor the experience to your preferences.
 - **User-friendly Interface**: Enjoy a clean and intuitive user interface that enhances the gaming experience.
-- **Sound Effects**: Immerse yourself in the game with authentic sound effects that contribute to the overall atmosphere.
 
 ## How to Play
 
-1. Use the arrow keys or mouse to control your paddle.
+1. Use the arrow keys to control your paddle.
 2. In two-player mode, player one controls the paddle on the left side of the screen, while player two controls the paddle on the right.
-3. In single-player mode, control the paddle on the left side of the screen while the computer controls the paddle on the right.
-4. The objective is to hit the ball with your paddle and prevent it from passing your side of the screen.
-5. Score points by successfully hitting the ball past your opponent's paddle.
-6. The game continues until one player reaches the predetermined score limit or time limit.
+3. The objective is to hit the ball with your paddle and prevent it from passing your side of the screen.
+4. Score points by successfully hitting the ball past your opponent's paddle.
 
 ## Technologies Used
 
@@ -31,7 +26,6 @@ The Pong Game is built using the following technologies:
 
 - Python
 - Pygame (a Python library for game development)
-- Simple graphics and sound effects
 
 ## Contribution
 
